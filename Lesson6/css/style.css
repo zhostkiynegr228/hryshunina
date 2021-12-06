@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: mintcream;
+    color: rgb(19, 18, 18);
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.header {
+    height: 420px; 
+}
+
+.header-red {
+    background-color: red;
+    width: 140px;
+    height: 80px;
+}
+
+.header-green {
+    background-color: green;
+}
+
+.header-blue {
+    background-color: blue;
+}
+
